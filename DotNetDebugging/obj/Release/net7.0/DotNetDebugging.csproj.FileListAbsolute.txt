@@ -1,0 +1,14 @@
+C:\Job\Projects\.NET Projects\.Net-Projects\DotNetDebugging\bin\Release\net7.0\DotNetDebugging.exe
+C:\Job\Projects\.NET Projects\.Net-Projects\DotNetDebugging\bin\Release\net7.0\DotNetDebugging.deps.json
+C:\Job\Projects\.NET Projects\.Net-Projects\DotNetDebugging\bin\Release\net7.0\DotNetDebugging.runtimeconfig.json
+C:\Job\Projects\.NET Projects\.Net-Projects\DotNetDebugging\bin\Release\net7.0\DotNetDebugging.dll
+C:\Job\Projects\.NET Projects\.Net-Projects\DotNetDebugging\bin\Release\net7.0\DotNetDebugging.pdb
+C:\Job\Projects\.NET Projects\.Net-Projects\DotNetDebugging\obj\Release\net7.0\DotNetDebugging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Job\Projects\.NET Projects\.Net-Projects\DotNetDebugging\obj\Release\net7.0\DotNetDebugging.AssemblyInfoInputs.cache
+C:\Job\Projects\.NET Projects\.Net-Projects\DotNetDebugging\obj\Release\net7.0\DotNetDebugging.AssemblyInfo.cs
+C:\Job\Projects\.NET Projects\.Net-Projects\DotNetDebugging\obj\Release\net7.0\DotNetDebugging.csproj.CoreCompileInputs.cache
+C:\Job\Projects\.NET Projects\.Net-Projects\DotNetDebugging\obj\Release\net7.0\DotNetDebugging.dll
+C:\Job\Projects\.NET Projects\.Net-Projects\DotNetDebugging\obj\Release\net7.0\refint\DotNetDebugging.dll
+C:\Job\Projects\.NET Projects\.Net-Projects\DotNetDebugging\obj\Release\net7.0\DotNetDebugging.pdb
+C:\Job\Projects\.NET Projects\.Net-Projects\DotNetDebugging\obj\Release\net7.0\DotNetDebugging.genruntimeconfig.cache
+C:\Job\Projects\.NET Projects\.Net-Projects\DotNetDebugging\obj\Release\net7.0\ref\DotNetDebugging.dll
